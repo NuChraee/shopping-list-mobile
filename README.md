@@ -1,6 +1,8 @@
+# shopping_list
+
 [![Build status](https://build.appcenter.ms/v0.1/apps/fedf1d06-faa0-4444-bf0d-1d72b3544f99/branches/main/badge)](https://appcenter.ms)
 
-# shopping_list
+[CreozZz](https://install.appcenter.ms/orgs/creozzz/apps/shopping-list/distribution_groups/public)
 
 A new Flutter project.
 
@@ -17,5 +19,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-Public page:
-install.appcenter.ms/orgs/creozzz/apps/shopping-list/distribution_groups/public
+
